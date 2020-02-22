@@ -1,0 +1,25 @@
+{
+  "name": "vtui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigDuro/VTUI.git"
+  },
+  "author": "dc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigDuro/VTUI/issues"
+  },
+  "homepage": "https://github.com/bigDuro/VTUI#readme",
+  "devDependencies": {
+      "webpack": "^4.20.2",
+      "webpack-cli": "^3.1.2"
+    },
+    "dependencies": {}
+}
